@@ -1,4 +1,6 @@
-# link-box
+# tech-link-box
+봤거나 볼 예정인 기술 관련 링크들 모음
+
 * [2020-11-05 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-05.md)
 * [2020-11-06 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-06.md)
 * [2020-11-09 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-09.md)
