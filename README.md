@@ -11,3 +11,4 @@
 * [2020-11-19 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-19.md)
 * [2020-11-20 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-20.md)
 * [2020-11-26 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-26.md)
+* [2020-11-27 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-11/2020-11-27.md)
