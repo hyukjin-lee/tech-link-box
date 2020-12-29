@@ -18,3 +18,4 @@
 # 12월
 * [2020-12-01 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-12/2020-12-01.md)
 * [2020-12-02-07 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-12/2020-12-02-07.md)
+* [2020-12-08-29 Documents](https://github.com/hyukjin-lee/link-box/blob/main/2020-12/2020-12-08-29.md)
